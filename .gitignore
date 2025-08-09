@@ -1,0 +1,19 @@
+# Environment files
+.env
+Backend/.env
+*/env/*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+.vscode/
+
+# Logs and databases
+*.log
+*.sqlite

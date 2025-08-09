@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "6895e6e93943e0cfcbe817af"
+  },
+  "platform": "Coursera",
+  "title": "Introduction to Data Science",
+  "link": "https://www.coursera.org/learn/generative-ai-for-everyone\n"
+},
+{
+  "_id": {
+    "$oid": "6895e6e93943e0cfcbe817b1"
+  },
+  "platform": "edX",
+  "title": "CS50's Introduction to Computer Science",
+  "link": "https://cs50.harvard.edu/x/"
+},
+{
+  "_id": {
+    "$oid": "6895f16a3943e0cfcbe817b3"
+  },
+  "platform": "Coursera",
+  "title": "Machine Learning",
+  "link": "https://www.coursera.org/learn/machine-learning"
+},
+{
+  "_id": {
+    "$oid": "6895f16a3943e0cfcbe817b6"
+  },
+  "platform": "YouTube",
+  "title": "freeCodeCamp.org - JavaScript Full Course",
+  "link": "https://www.youtube.com/watch?v=PkZNo7MFNFg"
+},
+{
+  "_id": {
+    "$oid": "6895f16a3943e0cfcbe817b7"
+  },
+  "platform": "YouTube",
+  "title": "freeCodeCamp.org - Python Full Course",
+  "link": "https://www.youtube.com/watch?v=rfscVS0vtbw"
+},
+{
+  "_id": {
+    "$oid": "6895f16a3943e0cfcbe817b8"
+  },
+  "platform": "FutureLearn",
+  "title": "Understanding IELTS: Techniques for English Language Tests",
+  "link": "https://www.futurelearn.com/courses/understanding-ielts"
+},
+{
+  "_id": {
+    "$oid": "6895f16a3943e0cfcbe817b9"
+  },
+  "platform": "Khan Academy",
+  "title": "Intro to Economics",
+  "link": "https://www.khanacademy.org/economics-finance-domain/microeconomics"
+},
+{
+  "_id": {
+    "$oid": "6895f16a3943e0cfcbe817ba"
+  },
+  "platform": "Alison",
+  "title": "Diploma in Project Management",
+  "link": "https://alison.com/course/diploma-in-project-management"
+},
+{
+  "_id": {
+    "$oid": "6895f16a3943e0cfcbe817bb"
+  },
+  "platform": "Codecademy",
+  "title": "Learn HTML",
+  "link": "https://www.codecademy.com/learn/learn-html"
+},
+{
+  "_id": {
+    "$oid": "6895f16a3943e0cfcbe817bc"
+  },
+  "platform": "MIT OpenCourseWare",
+  "title": "Introduction to Computer Science and Programming in Python",
+  "link": "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/"
+},
+{
+  "_id": {
+    "$oid": "6895f72a3943e0cfcbe817be"
+  },
+  "platform": "YouTube",
+  "title": "CS50's Introduction to Computer Science",
+  "link": "https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V"
+},
+{
+  "_id": {
+    "$oid": "6895f72a3943e0cfcbe817bf"
+  },
+  "platform": "YouTube",
+  "title": "Python for Everybody",
+  "link": "https://www.youtube.com/playlist?list=PLlCiZCH0vErkqCvkKs6kJyT9zlu5B0jok"
+},
+{
+  "_id": {
+    "$oid": "6895f72a3943e0cfcbe817c0"
+  },
+  "platform": "Google Digital Garage",
+  "title": "Fundamentals of Digital Marketing",
+  "link": "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing"
+},
+{
+  "_id": {
+    "$oid": "6895f72a3943e0cfcbe817c1"
+  },
+  "platform": "freeCodeCamp",
+  "title": "freeCodeCamp Full Curriculum",
+  "link": "https://www.freecodecamp.org/"
+},
+{
+  "_id": {
+    "$oid": "6895f86d3943e0cfcbe817c3"
+  },
+  "platform": "Udemy",
+  "title": "Create Your First JavaScript Game",
+  "link": "https://www.udemy.com/course/code-your-first-game/"
+},
+{
+  "_id": {
+    "$oid": "6895f86d3943e0cfcbe817c4"
+  },
+  "platform": "Udemy",
+  "title": "Git & GitHub Crash Course",
+  "link": "https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/"
+}]
